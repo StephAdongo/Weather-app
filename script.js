@@ -26,6 +26,7 @@ function changeTheme() {
     theme = 'dark';
     setDarkTheme();
   }
+  return theme;
 }
 
 function setNormalTheme() {
@@ -141,8 +142,9 @@ async function fetchGif(weatherConditions) {
     .then((response) => {
       displayGif(response);
     })
-    .catch((error) => {
+    .catch((error) => { 
       removeLoadingData();
+      console.error('An erro occurred:', error)
     });
 }
 

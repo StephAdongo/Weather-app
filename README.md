@@ -15,6 +15,6 @@ This project is a simple weather application that fetches and displays weather d
 - HTML
 - CSS
 - JavaScript
-- Weather API (e.g., OpenWeatherMap)
+- Weather API 
 
    

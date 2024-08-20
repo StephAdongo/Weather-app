@@ -1,9 +1,5 @@
 # Weather-app
 
-This is a project  on bulding a weather app and employing the use of APIs
-
-
-## Description
 This project is a simple weather application that fetches and displays weather data using APIs.
 
 ## Features

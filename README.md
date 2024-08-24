@@ -12,5 +12,4 @@ This project is a simple weather application that fetches and displays weather d
 - CSS
 - JavaScript
 - Weather API 
-
    
